@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+html, body
+{
+ margin: 0;
+ padding: 0;
+ height: 100%;
+}
+.bg-dark{
+background-color: rgb(26,26,26,255) !important;
+}
+
+h4{
+font-size: 2em;
+}
+
+.texto1{
+color: rgb(126,126,126,255);
+font-weight: bold;
+font-family: Open sans;
+font-size: 1.25em;
+}
+
+.texto2{
+color: rgb(126,126,126,255);
+font-weight: bold;
+font-family: Open sans;
+font-size: 1.25em;
+}
+
+.botao{
+    display: inline-block;
+    position: relative;
+    font-family: Open sans;
+    font-size: 1.25em;
+    padding-top: 5px;
+    margin-left: 0%;
+    width: fit-content;
+   
+    }
+
+    .btn-primary{
+        background-color: rgb(54,149,74,255) !important;
+    }
